@@ -457,7 +457,7 @@ h1{
 
   .image-container img {
     display: block; /* Elimina espacios inferiores por defecto */
-    width: 29vw; /* Ajusta al tamaño del contenedor o imagen */
+    width: 35vw; /* Ajusta al tamaño del contenedor o imagen */
     height: 18svh; /* Mantén la proporción de la imagen */
   }
   
