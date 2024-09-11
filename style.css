@@ -349,6 +349,7 @@ h2{
 }
 
 .container-hoteltela{
+  margin-right: 20px;
   margin-left: 20px;
   height: 70svh;
   justify-content: space-around;
@@ -434,6 +435,7 @@ h1{
   }
 
   .container-hoteltela{
+    margin-right: 20px;
     margin-left: 20px;
     height: 50svh;
     justify-content: space-around;
